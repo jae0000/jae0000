@@ -1,5 +1,4 @@
 ## Hi there 👋
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyp3395)](https://solved.ac/jyp3395)
   <img src="http://mazandi.herokuapp.com/api?handle={jyp3395}&theme=warm"/>
