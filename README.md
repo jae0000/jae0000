@@ -3,9 +3,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyp3395)](https://solved.ac/jyp3395)
   <img src="http://mazandi.herokuapp.com/api?handle={jyp3395}&theme=warm"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyp3395)](https://github.com/jyp3395/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyp3395)](https://github.com/jyp3395/github-readme-stats)
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=20&section=header&text=안녕하세요&fontSize=60)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae0000)](https://github.com/jae0000/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jae0000)](https://github.com/jae0000/github-readme-stats)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=안녕하세요&fontSize=60)
 
 <!--
 **jae0000/jae0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
